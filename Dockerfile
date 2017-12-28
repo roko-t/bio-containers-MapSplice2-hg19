@@ -6,7 +6,7 @@
 # to use gcc,g++ 4.8
 FROM ubuntu:14.04
 
-MAINTAINER Hiroko Tanaka <htrokoroko@gmail.com>
+MAINTAINER Hiroko Tanaka <hiroko@hgc.jp>
 
 ENV MAPSPLICE_VERSION  2.2.1
 ENV PYTHON_VERSION 2.7.14
